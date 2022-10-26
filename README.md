@@ -6,7 +6,7 @@
 
 **Diagrama de Atividades**
 
-![Diagrama_De_Atividades drawio (1)](https://user-images.githubusercontent.com/65633856/197903125-a6ad3499-0a69-45d2-957e-1d28b330295c.png)
+![Diagrama_De_Atividades_3 0 drawio](https://user-images.githubusercontent.com/65633856/197905657-251f662a-9afe-4361-8591-ea67ab7d5a47.svg)
 
 
 **Diagrama de Sequência**
